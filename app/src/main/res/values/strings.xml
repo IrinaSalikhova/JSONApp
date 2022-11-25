@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Question - Read JSON</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_read_json"> Read JSON</string>
+</resources>

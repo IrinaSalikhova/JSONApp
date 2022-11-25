@@ -1,0 +1,81 @@
+{
+  "restaurants": [
+    {
+      "name": "Alfredo's dishes",
+      "description": "At Alfredo's, we provide the best seafood dishes.",
+      "image": "seafood"
+    },
+    {
+      "name": "Jamie's burgers",
+      "description": "At Jamie's, we serve the best meat and vegan burgers!",
+      "image": "burger"
+    },
+    {
+      "name": "Pizza John",
+      "description": "Get the best pizza in town. We also serve vegan burgers!",
+      "image": "pizza"
+    },
+    {
+      "name": "Dinner in the Clouds",
+      "description": "At DitC, you can experience the full immersive dining experience.",
+      "image": "clouds"
+    },
+    {
+      "name": "Eternity lunch",
+      "description": "At Eternity lunch, you will get the best American dishes.",
+      "image": "american"
+    },
+
+    {
+      "name": "Food and Coffee",
+      "description": "Drink your coffee and then have lunch at FaC!",
+      "image": "coffee"
+
+    },
+    {
+      "name": "Pizza and burgers Brazil",
+      "description": "Get your best burgers and pizza here in Brazil!",
+      "image": "brazil"
+    },
+    {
+      "name": "Merry Dinner",
+      "description": "Get the Christmas experience at Merry Dinner with Santa!",
+      "image": "merry"
+
+    },
+    {
+      "name": "Uncle Ben's Pizza shop",
+      "description": "Relieve the childhood pizza experience at Uncle Ben's pizza shop!",
+      "image": "uncle"
+    },
+    {
+      "name": "Spicy Grill Toronto",
+      "description": "Get the best culinary experience in Toronto.",
+      "image": "grill"
+
+    },
+    {
+      "name": "Cheese Food shop",
+      "description": "Cheesy meals with cheesy ingredients, it's all about cheese!",
+      "image": "cheese"
+    },
+    {
+      "name": "Mexican Spicy Food in Atlanta",
+      "description": "Get your spicy food dose here in Atlanta at Mexican Spicy Food!",
+      "image": "mexican"
+
+    },
+    {
+      "name": "Spanish Kitchen Reinvented",
+      "description": "Check out the true culinary experience with spanish dishes in NYC!",
+      "image": "spanish"
+    },
+
+    {
+
+      "name": "Mike and Ben's food pub",
+      "description": "Come get the best food in New Jersey, now at Mike and Ben's!",
+      "image": "mike"
+    }
+  ]
+}
